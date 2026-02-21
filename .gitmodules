@@ -1,0 +1,9 @@
+[submodule "semicolon-frontend"]
+	path = semicolon-frontend
+	url = https://github.com/vikas90244/semicolon-frontend.git
+[submodule "semicolon-backend"]
+	path = semicolon-backend
+	url = https://github.com/vikas90244/semicolon-backend.git
+[submodule "upload-server"]
+	path = upload-server
+	url = https://github.com/vikas90244/upload-engine.git
