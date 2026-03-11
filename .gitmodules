@@ -4,6 +4,3 @@
 [submodule "semicolon-backend"]
 	path = semicolon-backend
 	url = https://github.com/vikas90244/semicolon-backend.git
-[submodule "upload-server"]
-	path = upload-server
-	url = https://github.com/vikas90244/upload-engine.git
